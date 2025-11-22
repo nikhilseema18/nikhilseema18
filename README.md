@@ -96,7 +96,6 @@
 ## 📫 Connect with Me
 
 📧 **Email:** nikhilseema18@gmail.com  
-💻 **GitHub:** https://github.com/nikhilseema18
 
 ---
 
