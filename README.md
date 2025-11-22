@@ -1,51 +1,68 @@
 👋 Hi, I'm Nikhil Seema
-🚀 Aspiring Data Scientist & Cloud Enthusiast | AI/ML Practitioner | CSE (Health Informatics)
-Passionate about building intelligent systems, exploring cloud technologies, and creating impactful projects that solve real-world problems. Currently pursuing B.Tech in Computer Science and Engineering (Health Informatics) at VIT Bhopal University.
+🎓 Computer Science & Engineering (Health Informatics) student at VIT Bhopal University
+💡 Passionate about Machine Learning, AI, Cloud Computing & Data Science
+🧠 Focused on building scalable systems, intelligent models, and secure solutions for real-world applications.
 
-🧑‍💻 Technical Skills
+🛠️ Technical Skills
 Programming
-Java, Python, HTML/CSS, JavaScript
+Java
+
+Python
+
+HTML, CSS
+
+JavaScript
 
 Tools & Libraries
-Altair, NumPy, Pandas, Streamlit, Datetime, XGBoost, Scikit-learn
+Altair
+
+NumPy
+
+Pandas
+
+Streamlit
+
+Datetime
+
+XGBoost
+
+Scikit-learn
 
 Coursework
-DSA, NLP, IoT, DBMS, OS, Computer Networks, Cybersecurity
+Data Structures & Algorithms
 
-📚 Education
-B.Tech in CSE (Health Informatics) – VIT Bhopal
-CGPA: 8.30/10 | 2022 – 2026
+DBMS
 
-A.P Model College, Kadapa
-Percentage: 73.2% | 2020 – 2022
+Operating Systems
 
-Dr. KKR Gowtham International School, Vijayawada
-Percentage: 100% | 2019 – 2020
+Computer Networks
 
-🏗️ Projects
+NLP
+
+IoT
+
+Cybersecurity
+
+🚀 Projects
 🔹 UPI Fraud Detection System using ML
-altair, numpy, pandas, streamlit, datetime, xgboost
+Performed EDA on financial transaction data using Pandas, NumPy, and Datetime.
 
-Performed extensive EDA to extract temporal insights and analyze transaction behaviors.
+Trained an XGBoost model with SMOTE handling for class imbalance and tuning via GridSearchCV.
 
-Built XGBoost model with SMOTE for class imbalance and GridSearchCV for tuning.
+Built a full ML pipeline for preprocessing, feature engineering, and evaluation (ROC-AUC, F1-Score).
 
-Developed full ML pipeline with Scikit-learn for preprocessing, feature engineering, and evaluation (ROC-AUC, F1).
-
-Integrated with Streamlit to create an interactive fraud detection dashboard aligned with BFSI security guidelines.
+Developed an interactive Streamlit-based fraud detection dashboard aligned with BFSI security practices.
 
 🔹 AI-Powered Chatbot for Customer Support
-Python, NLP, ML, Flask/Django
+Developed a real-time customer support chatbot using Python & NLP.
 
-Built a conversational AI chatbot using NLP for real-time customer support.
+Integrated ML models for improved intent recognition and adaptive learning.
 
-Implemented ML models for improved query understanding and adaptive learning.
+Deployed via Flask/Django, enabling interactive web-based conversations.
 
-Deployed using Flask/Django for an interactive, web-based user interface.
+Optimized conversational flows for higher accuracy and better user experience.
 
-Enhanced intent recognition and overall user experience with optimized conversational flows.
-
-🎓 Certifications
+📜 Certifications
 Programming in Core Java – Matrix Computer Education Institute
 
 Oracle Cloud Infrastructure 2025 Certified Data Science Professional – Oracle
@@ -54,24 +71,28 @@ AWS Solutions Architect – Associate (Training Program) – Ethnus
 
 GEN AI Using IBM Watsonx – IBM Career Education Program
 
-HTML, CSS, and JavaScript for Web Developers – Johns Hopkins University
+HTML, CSS & JavaScript for Web Developers – Johns Hopkins University
 
-🏅 Achievements & Responsibilities
+🌟 Achievements & Responsibilities
 Event Manager, Cooking Club – VIT Bhopal
 
-Coordinator, Mana Telugu Club – Organized cultural & tech events, boosting student engagement
+Coordinator, Mana Telugu Club – Organized cultural & tech events, improving student engagement
 
 🌐 Languages
-English, Hindi, Telugu
+English
+
+Hindi
+
+Telugu
 
 🎯 Soft Skills
 Analytical Thinking
 
 Problem Solving
 
-Risk Assessment
-
 Collaboration & Teamwork
+
+Risk Assessment
 
 Adaptability
 
@@ -88,7 +109,9 @@ Listening to Music
 
 Movie Enthusiast
 
-📫 Connect With Me
-Email: nikhilseema18@gmail.com
+📫 Connect with Me
+📧 Email: nikhilseema18@gmail.com
+💻 GitHub: nikhilseema18
 
-GitHub: github.com/nikhilseema18
+✨ “Keep building. Keep improving.”
+
